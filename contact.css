@@ -40,13 +40,14 @@ nav ul li:hover{
     font-size: 20px;
 }
 .form{
-    display: flex;
-    /* margin: auto; */
     padding: 10px;
 }
 .gform{
-    margin: 7% 27%;
-    border: 5px solid white;
+    /* margin: 7% 27%; */
+    max-width: 100%;
+    min-width: 100%;
+    align-items: center;
+    /* border: 5px solid white; */
 }
 .top{
     display: flex;
